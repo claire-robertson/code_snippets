@@ -1,0 +1,883 @@
+text
+[[AdvancedFormat]]
+[[Block:MC Block]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>not a moment to think<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>been all the way down<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>into it there were a<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>its head impatiently and walked<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>one elbow against the door<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>she had looked under it<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>_what_ are you said the<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>she had gone through that<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>pepper in that soup alice<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>when it grunted again so<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>two to think about it<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>cook tulip roots instead of<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>a little timidly why you<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>the royal children and everybody<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>to her though as they<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>same words as before it’s<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>you will you join the<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>figure of the lobster quadrille<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>to ask his neighbour to<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
+[[Question:DB]]
+Please read the following piece of text: <br><br>
+<b>read them said the king<b>
+[[Question:MC:SingleAnswer:Horizontal]]
+How much semantic meaning does the above text contain?
+[[AdvancedChoices]]
+[[Choice]]
+1<br>
+No Meaning
+[[Choice]]
+2
+[[Choice]]
+3
+[[Choice]]
+4<br>
+Some Meaning
+[[Choice]]
+5
+[[Choice]]
+6
+[[Choice]]
+7<br>
+Much Meaning
+[[Question:MC:SingleAnswer:Horizontal]]
+How negative or positive do you think this text is?
+[[AdvancedChoices]]
+[[Choice]]
+-3<br>
+Very Negative
+[[Choice]]
+-2
+[[Choice]]
+-1
+[[Choice]]
+0<br>
+Neutral
+[[Choice]]
+1
+[[Choice]]
+2
+[[Choice]]
+3<br>
+Very Positive
+[[PageBreak]]
