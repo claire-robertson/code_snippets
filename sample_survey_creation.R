@@ -15,7 +15,7 @@ alice <- gutenberg_download(11) %>%
   mutate(book = "Alice's Adventures in Wonderland") %>% 
   slice(-(1:29))
 
-#Seperate into chunks
+#Separate into chunks
 alice_ngram <- alice %>% 
   unnest_tokens(ngram, text, token = "ngrams", n = 5) 
 
