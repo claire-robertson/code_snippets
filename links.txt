@@ -1,0 +1,6 @@
+
+Info on advanced formatting doc and txt files from qualtrics: 
+https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/
+
+Helpful community answers: 
+https://community.qualtrics.com/discussion/4220/question-type-code-in-the-advanced-format-txt-file
